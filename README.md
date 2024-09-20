@@ -9,3 +9,4 @@ mientras se hace ajustes para q lo pueda usar alguien q no sea desarrollador los
 
 
 <img src="trabajoGrafico/1726683128125.jpg" width="500"/>
+<img src="trabajoGrafico/1726799079547.jpg" width="500"/>
