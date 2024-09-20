@@ -12,3 +12,9 @@ mientras se hace ajustes para q lo pueda usar alguien q no sea desarrollador los
 <img src="trabajoGrafico/1726683128125.jpg" width="500"/>
 <img src="trabajoGrafico/1726799079547.jpg" width="500"/>
 
+[Mira este video en YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+o con miniatura:
+
+[![Mira el video en YouTube](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
